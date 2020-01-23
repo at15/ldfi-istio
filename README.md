@@ -11,6 +11,11 @@ This is a work in progress (i.e. README only) repo for [ldfi-adapter](https://gi
 
 ## TODO
 
+Env
+
+- [ ] instruction for minikube
+- [ ] instruction for GKE
+
 Adapter
 
 - [ ] provide API for updating failure conditions in adapter, CRD might be the easiest way.

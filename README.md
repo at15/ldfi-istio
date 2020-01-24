@@ -29,3 +29,9 @@ LDFI
 
 - [ldfi-adapter](https://github.com/disorderlylabs/ldfi-adapter)
 - [at15/bop-bpf](https://github.com/at15/bop-bpf)
+
+## Reference
+
+### Fault injection on k8s
+
+- [pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh) A Chaos Engineering Platform for Kubernetes

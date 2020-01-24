@@ -1,6 +1,6 @@
 # ldfi-istio
 
-Using LDFI with istio
+A istio mixer adapter for LDFI (Lineage-driven Fault Injection)
 
 ## Overview
 

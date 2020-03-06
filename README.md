@@ -18,6 +18,7 @@ Env
 
 Adapter
 
+- NOTE: mixer adapter is [being deprecated by wasm extension](https://github.com/at15/ldfi-istio/issues/2)
 - [ ] provide API for updating failure conditions in adapter, CRD might be the easiest way.
 - [ ] see if it is possible to run the mixer as an actual k8s operator, this allows the adapter to have the actual view of entire cluster and even fail node directly, similar to [pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh)
 
@@ -35,3 +36,7 @@ LDFI
 ### Fault injection on k8s
 
 - [pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh) A Chaos Engineering Platform for Kubernetes
+
+### Visualization
+
+- https://github.com/kiali/kiali observability for the Istio service mesh
